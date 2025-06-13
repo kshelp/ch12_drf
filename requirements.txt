@@ -15,4 +15,5 @@
 Django>=4.2,<5.0
 djangorestframework>=3.14.0
 djangorestframework_simplejwt
+gunicorn
 mysqlclient>=2.2.0
